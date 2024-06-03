@@ -4,10 +4,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjectoSmashBackApplication {
+public class SmushBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjectoSmashBackApplication.class, args);
+		SpringApplication.run(SmushBackendApplication.class, args);
+		
+
+		System.out.println("Hola squirtle");
 	}
 
 }
