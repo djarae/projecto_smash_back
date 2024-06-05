@@ -4,3 +4,7 @@ https://ngonyoku.medium.com/jdbc-how-to-connect-java-to-mysql-database-c7dc06dcb
 https://www.baeldung.com/java-connect-mysql
 # Usamos intellij ide, pero lo ideal es usuar JPA y clases
 # a futuro
+
+
+#Nota para reconectar jdbc con ideaj debo reinstalar el conector de jdbc
+https://ngonyoku.medium.com/jdbc-how-to-connect-java-to-mysql-database-c7dc06dcb28c
